@@ -54,6 +54,13 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+			
+			<!-- Plugin used to send coverage info to https://coveralls.io -->
+			<plugin>
+				<groupId>org.eluder.coveralls</groupId>
+				<artifactId>coveralls-maven-plugin</artifactId>
+				<version>4.1.0</version>				
+			</plugin>
 		</plugins>
 	</build>
 
