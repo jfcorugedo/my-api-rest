@@ -1,0 +1,6 @@
+{
+    "product":
+    [
+        {"name": "XBox One", "desc": "another cool console", "price": 349.0}
+    ]
+}
